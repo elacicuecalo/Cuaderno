@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx creator="QMapShack 1.13.2 http://www.qlandkarte.org/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+<gpx xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd " creator="QMapShack 1.13.2 http://www.qlandkarte.org/" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <metadata>
   <name>Astudillo Cordovilla</name>
   <time>2020-05-21T16:50:01.173Z</time>
  </metadata>
+ <wpt lat="42.19306822" lon="-4.29592026">
+  <ele>790</ele>
+  <time>2020-05-23T09:41:57.413Z</time>
+  <name>Astudillo</name>
+  <desc>Astudillo 995 habitantes, alojamiento, bares, tienda de alimentación</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.15591050" lon="-4.26038635">
+  <ele>759</ele>
+  <time>2020-05-23T09:42:33.128Z</time>
+  <name>Villalaco</name>
+  <desc>Villalaco 56 habitantes, bar.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.07922723" lon="-4.25952805">
+  <ele>745</ele>
+  <time>2020-05-23T09:43:09.135Z</time>
+  <name>Cordovilla La Real</name>
+  <desc>Cordovilla La Real 109 habitantes, bar, mesas de picnic junto al puente.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.08421448" lon="-4.20614136">
+  <ele>750</ele>
+  <time>2020-05-23T09:44:33.560Z</time>
+  <name>Quintana Del Puente</name>
+  <desc>Quintana Del Puente 263 habitantes, alojamientos, bares, alimentación, zona de picnic junto al río.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.25010271" lon="-4.20030487">
+  <ele>768</ele>
+  <time>2020-05-23T09:45:25.959Z</time>
+  <name>Pedrosa Del Príncipe</name>
+  <desc>Pedrosa Del Príncipe 175 habitantes, bar.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
  <trk>
   <name>Astudillo Cordovilla</name>
   <trkseg>

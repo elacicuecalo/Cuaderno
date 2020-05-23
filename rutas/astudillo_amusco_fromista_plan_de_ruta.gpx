@@ -1,9 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd " xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="QMapShack 1.13.2 http://www.qlandkarte.org/">
+<gpx xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd " creator="QMapShack 1.13.2 http://www.qlandkarte.org/" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
  <metadata>
   <name>Astudillo Amusco Frómista</name>
   <time>2020-05-22T12:25:38.684Z</time>
  </metadata>
+ <wpt lat="42.19322779" lon="-4.29446114">
+  <ele>786</ele>
+  <time>2020-05-23T09:14:30.648Z</time>
+  <name>Astudillo</name>
+  <desc>Astudillo 995 habitantes, alojamientos rurales, bares, tienda de alimentación.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.19265335" lon="-4.32613266">
+  <ele>781</ele>
+  <time>2020-05-23T09:18:30.095Z</time>
+  <name>Ermita de Torre Marte</name>
+  <desc>Zona de Picnic y vistas</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.21399965" lon="-4.34132469">
+  <ele>793</ele>
+  <time>2020-05-23T09:19:45.440Z</time>
+  <name>Santoyo</name>
+  <desc>Santoyo 189 habitantes, bar.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.17519440" lon="-4.47127235">
+  <ele>769</ele>
+  <time>2020-05-23T09:20:22.400Z</time>
+  <name>Amusco</name>
+  <desc>Amusco 423 habitantes, bar, alimentación</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.20379007" lon="-4.39213646">
+  <ele>789</ele>
+  <time>2020-05-23T09:20:50.495Z</time>
+  <name>Támara de Campos</name>
+  <desc>Támara de Campos 67 habitantes, bar.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.26770019" lon="-4.40389526">
+  <ele>782</ele>
+  <time>2020-05-23T09:21:34.072Z</time>
+  <name>Frómista</name>
+  <desc>Frómista 767 habitantes, todos los servicios.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.26094232" lon="-4.34673203">
+  <ele>782</ele>
+  <time>2020-05-23T09:22:01.735Z</time>
+  <name>Boadilla del Camino</name>
+  <desc>Boadilla del Camino 121 habitantes, bares y alojamientos.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.17851421" lon="-4.37136543">
+  <ele>836</ele>
+  <time>2020-05-23T09:22:37.807Z</time>
+  <name>Palacios del Alcor</name>
+  <desc>Palacios del Alcor fuente.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.15603823" lon="-4.26021469">
+  <ele>759</ele>
+  <time>2020-05-23T09:23:10.640Z</time>
+  <name>Villalaco</name>
+  <desc>Villalaco 56 habitantes, bar.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.21170264" lon="-4.24510849">
+  <ele>761</ele>
+  <time>2020-05-23T09:25:08.455Z</time>
+  <name>Villodre</name>
+  <desc>Villodre 18 habitantes.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.21425487" lon="-4.43530930">
+  <ele>764</ele>
+  <time>2020-05-23T09:25:56.185Z</time>
+  <name>Piña de Campos</name>
+  <desc>Piña de Campos 217 habitantes, bar.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
+ <wpt lat="42.27190755" lon="-4.44732559">
+  <ele>790</ele>
+  <time>2020-05-23T09:26:38.208Z</time>
+  <name>Población de Campos</name>
+  <desc>Población de Campos 129 habitantes, alojamiento y bar. Por aquí también pasa el Camino de Santiago Francés.</desc>
+  <sym>Waypoint</sym>
+ </wpt>
  <trk>
   <name>Astudillo Amusco Frómista</name>
   <trkseg>
