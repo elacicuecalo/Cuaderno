@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Cuaderno Cicloturista">
+  <metadata>
+    <desc>Pre plan de ruta por la Meseta del Duero</desc>
+    <author>
+      <name>Cuaderno Cicloturista</name>
+      <link href="https://www.instagram.com/cuaderno_cicloturista/">
+      </link>
+    </author>
+  </metadata>
+  <wpt lat="41.721607" lon="-5.543368">
+    <name>Castronuevo</name>
+    <desc>- Castronuevo 228 habitantes, bar.</desc>
+  </wpt>
+  <wpt lat="41.768899" lon="-5.501927999999999">
+    <name>Cañizo</name>
+    <desc>- Cañizo 233 habitantes, bar, alojamiento.</desc>
+  </wpt>
+  <wpt lat="41.8982887" lon="-5.481338099999999">
+    <name>Cerecinos de Campos</name>
+    <desc>- Cerecinos de Campos 259 habitantes, bar.</desc>
+  </wpt>
+  <wpt lat="41.699722222222" lon="-5.5425">
+    <name>Pobladura de Valderaduey</name>
+    <desc>- Pobladura de Valderaduey 40 habitantes.</desc>
+  </wpt>
+  <wpt lat="41.905105555556" lon="-5.4068138888889">
+    <name>Quintanilla del Olmo</name>
+    <desc>- Quintanilla del Olmo 32 habitantes.</desc>
+  </wpt>
+  <wpt lat="41.886411" lon="-5.593888">
+    <name>San Agustín del Pozo</name>
+    <desc>- San Agustín del Pozo 183 habitantes, bar.</desc>
+  </wpt>
+  <wpt lat="41.819166666667" lon="-5.4638888888889">
+    <name>San Martín de Valderaduey</name>
+    <desc>- San Martín de Valderaduey 53 habitantes, bar.</desc>
+  </wpt>
+  <wpt lat="41.8571651" lon="-5.496789700000001">
+    <name>Tapioles</name>
+    <desc>- Tapioles 150 habitantes, bar.</desc>
+  </wpt>
+  <wpt lat="41.8542111" lon="-5.6035352">
+    <name>Villafáfila</name>
+    <desc>- Villafáfila 478 habitantes, bar, alojamiento, alimentación.</desc>
+  </wpt>
+  <wpt lat="41.7434599" lon="-5.641009400000001">
+    <name>Villalba de la Lampreana</name>
+    <desc>- Villalba de la Lampreana 227 habitantes, bar, alojamiento, alimentación.</desc>
+  </wpt>
+  <wpt lat="41.86544749999999" lon="-5.413591">
+    <name>Villalpando</name>
+    <desc>- Villalpando 1475 habitantes, bar, alojamiento, alimentación.</desc>
+  </wpt>
+  <wpt lat="41.8881012" lon="-5.3688223">
+    <name>Villamayor de Campos</name>
+    <desc>- Villamayor de Campos 333 habitantes.</desc>
+  </wpt>
+  <wpt lat="41.796464" lon="-5.638397">
+    <name>Villarrín de Campos</name>
+    <desc>- Villarrín de Campos 383 habitantes, bar, alojamiento, alimentación.</desc>
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="41.8639296" lon="-5.41321206">
+        <ele>692.0</ele>
+      </trkpt>
+      <trkpt lat="41.86181432" lon="-5.4155926">
+        <ele>692.0</ele>
+      </trkpt>
+      <trkpt lat="41.86063914" lon="-5.41810788">
+        <ele>691.0</ele>
+      </trkpt>
+      <trkpt lat="41.85919531" lon="-5.41976977">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.84898686" lon="-5.43036989">
+        <ele>687.0</ele>
+      </trkpt>
+      <trkpt lat="41.84334464" lon="-5.43823014">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.839818" lon="-5.44384461">
+        <ele>687.0</ele>
+      </trkpt>
+      <trkpt lat="41.83669424" lon="-5.44995316">
+        <ele>689.0</ele>
+      </trkpt>
+      <trkpt lat="41.82587746" lon="-5.45821766">
+        <ele>685.0</ele>
+      </trkpt>
+      <trkpt lat="41.81959482" lon="-5.46526943">
+        <ele>685.0</ele>
+      </trkpt>
+      <trkpt lat="41.81714207" lon="-5.47007542">
+        <ele>678.0</ele>
+      </trkpt>
+      <trkpt lat="41.814286" lon="-5.4711534">
+        <ele>679.0</ele>
+      </trkpt>
+      <trkpt lat="41.8124715" lon="-5.47227629">
+        <ele>679.0</ele>
+      </trkpt>
+      <trkpt lat="41.81102658" lon="-5.47479158">
+        <ele>680.0</ele>
+      </trkpt>
+      <trkpt lat="41.80968243" lon="-5.47919332">
+        <ele>678.0</ele>
+      </trkpt>
+      <trkpt lat="41.80346541" lon="-5.48745782">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.796952" lon="-5.48987429">
+        <ele>682.0</ele>
+      </trkpt>
+      <trkpt lat="41.78636376" lon="-5.49238957">
+        <ele>679.0</ele>
+      </trkpt>
+      <trkpt lat="41.77304362" lon="-5.49936948">
+        <ele>673.0</ele>
+      </trkpt>
+      <trkpt lat="41.76918355" lon="-5.50169612">
+        <ele>676.0</ele>
+      </trkpt>
+      <trkpt lat="41.76485246" lon="-5.5059721">
+        <ele>681.0</ele>
+      </trkpt>
+      <trkpt lat="41.76334593" lon="-5.50855026">
+        <ele>690.0</ele>
+      </trkpt>
+      <trkpt lat="41.76231016" lon="-5.51232319">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.75637774" lon="-5.51974327">
+        <ele>675.0</ele>
+      </trkpt>
+      <trkpt lat="41.75364676" lon="-5.5217555">
+        <ele>675.0</ele>
+      </trkpt>
+      <trkpt lat="41.74874953" lon="-5.52678606">
+        <ele>679.0</ele>
+      </trkpt>
+      <trkpt lat="41.73885975" lon="-5.54206641">
+        <ele>693.0</ele>
+      </trkpt>
+      <trkpt lat="41.73551572" lon="-5.54426728">
+        <ele>698.0</ele>
+      </trkpt>
+      <trkpt lat="41.72826185" lon="-5.54571357">
+        <ele>694.0</ele>
+      </trkpt>
+      <trkpt lat="41.7251057" lon="-5.54565069">
+        <ele>694.0</ele>
+      </trkpt>
+      <trkpt lat="41.72025339" lon="-5.54464457">
+        <ele>683.0</ele>
+      </trkpt>
+      <trkpt lat="41.7245404" lon="-5.54571357">
+        <ele>691.0</ele>
+      </trkpt>
+      <trkpt lat="41.72647181" lon="-5.54571357">
+        <ele>697.0</ele>
+      </trkpt>
+      <trkpt lat="41.73019316" lon="-5.54992667">
+        <ele>697.0</ele>
+      </trkpt>
+      <trkpt lat="41.73396139" lon="-5.55118431">
+        <ele>687.0</ele>
+      </trkpt>
+      <trkpt lat="41.73763519" lon="-5.55439129">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.74305132" lon="-5.56231443">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.7461595" lon="-5.56809958">
+        <ele>700.0</ele>
+      </trkpt>
+      <trkpt lat="41.75289336" lon="-5.57860089">
+        <ele>695.0</ele>
+      </trkpt>
+      <trkpt lat="41.75604815" lon="-5.58551792">
+        <ele>705.0</ele>
+      </trkpt>
+      <trkpt lat="41.76292221" lon="-5.59526464">
+        <ele>691.0</ele>
+      </trkpt>
+      <trkpt lat="41.7891404" lon="-5.62834061">
+        <ele>689.0</ele>
+      </trkpt>
+      <trkpt lat="41.79271691" lon="-5.63481746">
+        <ele>681.0</ele>
+      </trkpt>
+      <trkpt lat="41.79464626" lon="-5.63576069">
+        <ele>682.0</ele>
+      </trkpt>
+      <trkpt lat="41.79582267" lon="-5.63676681">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.79690494" lon="-5.63840174">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.79878711" lon="-5.64072838">
+        <ele>687.0</ele>
+      </trkpt>
+      <trkpt lat="41.81255886" lon="-5.63179014">
+        <ele>685.0</ele>
+      </trkpt>
+      <trkpt lat="41.82949222" lon="-5.62442395">
+        <ele>689.0</ele>
+      </trkpt>
+      <trkpt lat="41.84736142" lon="-5.6171476">
+        <ele>687.0</ele>
+      </trkpt>
+      <trkpt lat="41.84902044" lon="-5.61735421">
+        <ele>686.0</ele>
+      </trkpt>
+      <trkpt lat="41.85098838" lon="-5.61571029">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.85186151" lon="-5.613734">
+        <ele>685.0</ele>
+      </trkpt>
+      <trkpt lat="41.86327823" lon="-5.56396733">
+        <ele>680.0</ele>
+      </trkpt>
+      <trkpt lat="41.86153228" lon="-5.49183262">
+        <ele>686.0</ele>
+      </trkpt>
+      <trkpt lat="41.86347969" lon="-5.47368665">
+        <ele>685.0</ele>
+      </trkpt>
+      <trkpt lat="41.86535989" lon="-5.46308653">
+        <ele>687.0</ele>
+      </trkpt>
+      <trkpt lat="41.86629997" lon="-5.45203725">
+        <ele>686.0</ele>
+      </trkpt>
+      <trkpt lat="41.86838152" lon="-5.44269477">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.87079872" lon="-5.43487943">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.86950284" lon="-5.43364874">
+        <ele>684.0</ele>
+      </trkpt>
+      <trkpt lat="41.86797864" lon="-5.42868105">
+        <ele>685.0</ele>
+      </trkpt>
+      <trkpt lat="41.86542704" lon="-5.42019197">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.86488984" lon="-5.41866484">
+        <ele>690.0</ele>
+      </trkpt>
+      <trkpt lat="41.86576278" lon="-5.41736228">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="41.86606495" lon="-5.41601481">
+        <ele>690.0</ele>
+      </trkpt>
+      <trkpt lat="41.86509129" lon="-5.41511649">
+        <ele>693.0</ele>
+      </trkpt>
+      <trkpt lat="41.86416462" lon="-5.41325698">
+        <ele>693.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
